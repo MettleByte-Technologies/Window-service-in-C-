@@ -1,0 +1,1172 @@
+﻿Installing assembly 'C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.InstallLog
+   assemblypath = C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.InstallLog
+   assemblypath = C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe
+Uninstalling assembly 'C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.InstallLog
+   assemblypath = C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
+Installing assembly 'C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.InstallLog
+   assemblypath = C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.InstallLog
+   assemblypath = C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe
+Uninstalling assembly 'C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.InstallLog
+   assemblypath = C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
+Installing assembly 'C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.InstallLog
+   assemblypath = C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.InstallLog
+   assemblypath = C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe
+Uninstalling assembly 'C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.InstallLog
+   assemblypath = C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
+Installing assembly 'C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.InstallLog
+   assemblypath = C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.InstallLog
+   assemblypath = C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe
+Uninstalling assembly 'C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.InstallLog
+   assemblypath = C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
+Attempt to stop service Service1.
+Installing assembly 'C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.InstallLog
+   assemblypath = C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.InstallLog
+   assemblypath = C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe
+Uninstalling assembly 'C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.InstallLog
+   assemblypath = C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
+Installing assembly 'C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.InstallLog
+   assemblypath = C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.InstallLog
+   assemblypath = C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe
+Uninstalling assembly 'C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.InstallLog
+   assemblypath = C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
+Installing assembly 'C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.InstallLog
+   assemblypath = C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.InstallLog
+   assemblypath = C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe
+Uninstalling assembly 'C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.InstallLog
+   assemblypath = C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
+Attempt to stop service Service1.
+Installing assembly 'C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.InstallLog
+   assemblypath = C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.InstallLog
+   assemblypath = C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe
+Uninstalling assembly 'C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.InstallLog
+   assemblypath = C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
+Attempt to stop service Service1.
+Installing assembly 'C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.InstallLog
+   assemblypath = C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.InstallLog
+   assemblypath = C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe
+Uninstalling assembly 'C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.InstallLog
+   assemblypath = C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
+Attempt to stop service Service1.
+Installing assembly 'C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.InstallLog
+   assemblypath = C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.InstallLog
+   assemblypath = C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe
+Uninstalling assembly 'C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.InstallLog
+   assemblypath = C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
+Attempt to stop service Service1.
+Installing assembly 'C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.InstallLog
+   assemblypath = C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.InstallLog
+   assemblypath = C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe
+Uninstalling assembly 'C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.InstallLog
+   assemblypath = C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
+Attempt to stop service Service1.
+Installing assembly 'C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.InstallLog
+   assemblypath = C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.InstallLog
+   assemblypath = C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe
+Uninstalling assembly 'C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.InstallLog
+   assemblypath = C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
+Attempt to stop service Service1.
+Installing assembly 'C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.InstallLog
+   assemblypath = C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.InstallLog
+   assemblypath = C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe
+Uninstalling assembly 'C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.InstallLog
+   assemblypath = C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
+Attempt to stop service Service1.
+Uninstalling assembly 'C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.InstallLog
+   assemblypath = C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe
+Removing EventLog source Service1.
+Warning: The source Service1 is not registered on the local machine.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
+Attempt to stop service Service1.
+Installing assembly 'C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.InstallLog
+   assemblypath = C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe
+Installing service Service1...
+Creating EventLog source Service1 in log Application...
+Rolling back assembly 'C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.InstallLog
+   assemblypath = C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe
+Restoring event log to previous state for source Service1.
+Uninstalling assembly 'C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.InstallLog
+   assemblypath = C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe
+Removing EventLog source Service1.
+Warning: The source Service1 is not registered on the local machine.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
+Attempt to stop service Service1.
+Installing assembly 'C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.InstallLog
+   assemblypath = C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe
+Installing service Service1...
+Creating EventLog source Service1 in log Application...
+Rolling back assembly 'C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.InstallLog
+   assemblypath = C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe
+Restoring event log to previous state for source Service1.
+Installing assembly 'C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.InstallLog
+   assemblypath = C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe
+Installing service Service1...
+Creating EventLog source Service1 in log Application...
+Rolling back assembly 'C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.InstallLog
+   assemblypath = C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe
+Restoring event log to previous state for source Service1.
+Installing assembly 'C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.InstallLog
+   assemblypath = C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.InstallLog
+   assemblypath = C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe
+Uninstalling assembly 'C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.InstallLog
+   assemblypath = C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
+Installing assembly 'C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.InstallLog
+   assemblypath = C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.InstallLog
+   assemblypath = C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe
+Uninstalling assembly 'C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.InstallLog
+   assemblypath = C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
+Installing assembly 'C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.InstallLog
+   assemblypath = C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.InstallLog
+   assemblypath = C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe
+Uninstalling assembly 'C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.InstallLog
+   assemblypath = C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
+Installing assembly 'C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.InstallLog
+   assemblypath = C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.InstallLog
+   assemblypath = C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe
+Uninstalling assembly 'C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.InstallLog
+   assemblypath = C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
+Installing assembly 'C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.InstallLog
+   assemblypath = C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.InstallLog
+   assemblypath = C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe
+Uninstalling assembly 'C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.InstallLog
+   assemblypath = C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
+Installing assembly 'C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.InstallLog
+   assemblypath = C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.InstallLog
+   assemblypath = C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe
+Uninstalling assembly 'C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.InstallLog
+   assemblypath = C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
+Installing assembly 'C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.InstallLog
+   assemblypath = C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.InstallLog
+   assemblypath = C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe
+Uninstalling assembly 'C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.InstallLog
+   assemblypath = C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
+Installing assembly 'C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.InstallLog
+   assemblypath = C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.InstallLog
+   assemblypath = C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe
+Uninstalling assembly 'C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.InstallLog
+   assemblypath = C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
+Installing assembly 'C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.InstallLog
+   assemblypath = C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.InstallLog
+   assemblypath = C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe
+Uninstalling assembly 'C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.InstallLog
+   assemblypath = C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
+Installing assembly 'C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.InstallLog
+   assemblypath = C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.InstallLog
+   assemblypath = C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe
+Uninstalling assembly 'C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.InstallLog
+   assemblypath = C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
+Installing assembly 'C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.InstallLog
+   assemblypath = C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.InstallLog
+   assemblypath = C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe
+Uninstalling assembly 'C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.InstallLog
+   assemblypath = C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
+Installing assembly 'C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.InstallLog
+   assemblypath = C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.InstallLog
+   assemblypath = C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe
+Uninstalling assembly 'C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.InstallLog
+   assemblypath = C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
+Installing assembly 'C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.InstallLog
+   assemblypath = C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.InstallLog
+   assemblypath = C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe
+Uninstalling assembly 'C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.InstallLog
+   assemblypath = C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
+Installing assembly 'C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.InstallLog
+   assemblypath = C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.InstallLog
+   assemblypath = C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe
+Uninstalling assembly 'C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.InstallLog
+   assemblypath = C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
+Installing assembly 'C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.InstallLog
+   assemblypath = C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.InstallLog
+   assemblypath = C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe
+Uninstalling assembly 'C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.InstallLog
+   assemblypath = C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
+Installing assembly 'C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.InstallLog
+   assemblypath = C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.InstallLog
+   assemblypath = C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe
+Uninstalling assembly 'C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.InstallLog
+   assemblypath = C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
+Installing assembly 'C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.InstallLog
+   assemblypath = C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.InstallLog
+   assemblypath = C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe
+Uninstalling assembly 'C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.InstallLog
+   assemblypath = C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
+Installing assembly 'C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.InstallLog
+   assemblypath = C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.InstallLog
+   assemblypath = C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe
+Uninstalling assembly 'C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.InstallLog
+   assemblypath = C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
+Installing assembly 'C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.InstallLog
+   assemblypath = C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.InstallLog
+   assemblypath = C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe
+Uninstalling assembly 'C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.InstallLog
+   assemblypath = C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
+Installing assembly 'C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.InstallLog
+   assemblypath = C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.InstallLog
+   assemblypath = C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe
+Uninstalling assembly 'C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.InstallLog
+   assemblypath = C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
+Installing assembly 'C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.InstallLog
+   assemblypath = C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.InstallLog
+   assemblypath = C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe
+Uninstalling assembly 'C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.InstallLog
+   assemblypath = C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
+Installing assembly 'C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.InstallLog
+   assemblypath = C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.InstallLog
+   assemblypath = C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe
+Uninstalling assembly 'C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.InstallLog
+   assemblypath = C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
+Installing assembly 'C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.InstallLog
+   assemblypath = C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.InstallLog
+   assemblypath = C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe
+Uninstalling assembly 'C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.InstallLog
+   assemblypath = C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
+Installing assembly 'C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.InstallLog
+   assemblypath = C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.InstallLog
+   assemblypath = C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe
+Uninstalling assembly 'C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.InstallLog
+   assemblypath = C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
+Installing assembly 'C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.InstallLog
+   assemblypath = C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.InstallLog
+   assemblypath = C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe
+Uninstalling assembly 'C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.InstallLog
+   assemblypath = C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
+Installing assembly 'C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.InstallLog
+   assemblypath = C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.InstallLog
+   assemblypath = C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe
+Uninstalling assembly 'C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.InstallLog
+   assemblypath = C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
+Installing assembly 'C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.InstallLog
+   assemblypath = C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.InstallLog
+   assemblypath = C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe
+Uninstalling assembly 'C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.InstallLog
+   assemblypath = C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
+Installing assembly 'C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.InstallLog
+   assemblypath = C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.InstallLog
+   assemblypath = C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe
+Uninstalling assembly 'C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.InstallLog
+   assemblypath = C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
+Installing assembly 'C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.InstallLog
+   assemblypath = C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.InstallLog
+   assemblypath = C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe
+Uninstalling assembly 'C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.InstallLog
+   assemblypath = C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
+Installing assembly 'C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.InstallLog
+   assemblypath = C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.InstallLog
+   assemblypath = C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe
+Uninstalling assembly 'C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.InstallLog
+   assemblypath = C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
+Installing assembly 'C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.InstallLog
+   assemblypath = C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.InstallLog
+   assemblypath = C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe
+Uninstalling assembly 'C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.InstallLog
+   assemblypath = C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
+Installing assembly 'C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.InstallLog
+   assemblypath = C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.InstallLog
+   assemblypath = C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe
+Uninstalling assembly 'C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.InstallLog
+   assemblypath = C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
+Installing assembly 'C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.InstallLog
+   assemblypath = C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.InstallLog
+   assemblypath = C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe
+Uninstalling assembly 'C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.InstallLog
+   assemblypath = C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
+Installing assembly 'C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.InstallLog
+   assemblypath = C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.InstallLog
+   assemblypath = C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe
+Uninstalling assembly 'C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.InstallLog
+   assemblypath = C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
+Installing assembly 'C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.InstallLog
+   assemblypath = C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.InstallLog
+   assemblypath = C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe
+Uninstalling assembly 'C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.InstallLog
+   assemblypath = C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
+Installing assembly 'C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.InstallLog
+   assemblypath = C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.InstallLog
+   assemblypath = C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe
+Uninstalling assembly 'C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.InstallLog
+   assemblypath = C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
+Installing assembly 'C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.InstallLog
+   assemblypath = C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.InstallLog
+   assemblypath = C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe
+Uninstalling assembly 'C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.InstallLog
+   assemblypath = C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
+Installing assembly 'C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.InstallLog
+   assemblypath = C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.InstallLog
+   assemblypath = C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe
+Uninstalling assembly 'C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.InstallLog
+   assemblypath = C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
+Installing assembly 'C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.InstallLog
+   assemblypath = C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.InstallLog
+   assemblypath = C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe
+Uninstalling assembly 'C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.InstallLog
+   assemblypath = C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
+Installing assembly 'C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.InstallLog
+   assemblypath = C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.InstallLog
+   assemblypath = C:\Users\HP\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe

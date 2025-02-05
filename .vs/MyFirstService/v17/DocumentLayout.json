@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\source\\repos\\MyFirstService\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F905AEF1-35AC-4B44-ABD7-8ADD8548F70C}|MyFirstService\\MyFirstService.csproj|c:\\users\\hp\\source\\repos\\myfirstservice\\myfirstservice\\service1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F905AEF1-35AC-4B44-ABD7-8ADD8548F70C}|MyFirstService\\MyFirstService.csproj|solutionrelative:myfirstservice\\service1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F905AEF1-35AC-4B44-ABD7-8ADD8548F70C}|MyFirstService\\MyFirstService.csproj|C:\\Users\\HP\\source\\repos\\MyFirstService\\myfirstservice\\projectinstaller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F905AEF1-35AC-4B44-ABD7-8ADD8548F70C}|MyFirstService\\MyFirstService.csproj|solutionrelative:myfirstservice\\projectinstaller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F905AEF1-35AC-4B44-ABD7-8ADD8548F70C}|MyFirstService\\MyFirstService.csproj|C:\\Users\\HP\\source\\repos\\MyFirstService\\myfirstservice\\projectinstaller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F905AEF1-35AC-4B44-ABD7-8ADD8548F70C}|MyFirstService\\MyFirstService.csproj|solutionrelative:myfirstservice\\projectinstaller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F905AEF1-35AC-4B44-ABD7-8ADD8548F70C}|MyFirstService\\MyFirstService.csproj|C:\\Users\\HP\\source\\repos\\MyFirstService\\myfirstservice\\service1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F905AEF1-35AC-4B44-ABD7-8ADD8548F70C}|MyFirstService\\MyFirstService.csproj|solutionrelative:myfirstservice\\service1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProjectInstaller.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\MyFirstService\\MyFirstService\\ProjectInstaller.cs",
+              "RelativeDocumentMoniker": "MyFirstService\\ProjectInstaller.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\MyFirstService\\MyFirstService\\ProjectInstaller.cs",
+              "RelativeToolTip": "MyFirstService\\ProjectInstaller.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T07:06:37.045Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Service1.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\MyFirstService\\MyFirstService\\Service1.cs",
+              "RelativeDocumentMoniker": "MyFirstService\\Service1.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\MyFirstService\\MyFirstService\\Service1.cs",
+              "RelativeToolTip": "MyFirstService\\Service1.cs",
+              "ViewState": "AQIAAI0AAAAAAAAAAAA4wKgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T05:36:54.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Service1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\MyFirstService\\MyFirstService\\Service1.cs",
+              "RelativeDocumentMoniker": "MyFirstService\\Service1.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\MyFirstService\\MyFirstService\\Service1.cs [Design]",
+              "RelativeToolTip": "MyFirstService\\Service1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T05:36:52.152Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProjectInstaller.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\MyFirstService\\MyFirstService\\ProjectInstaller.cs",
+              "RelativeDocumentMoniker": "MyFirstService\\ProjectInstaller.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\MyFirstService\\MyFirstService\\ProjectInstaller.cs [Design]",
+              "RelativeToolTip": "MyFirstService\\ProjectInstaller.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T05:36:45.213Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

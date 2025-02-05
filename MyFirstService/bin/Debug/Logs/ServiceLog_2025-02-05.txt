@@ -1,0 +1,60 @@
+Service started at 05-02-2025 17:27:25
+Checking for new Excel files at 05-02-2025 17:28:25
+Processing file: fa_detalle_pedido_45507.xlsx
+Processing file: C:\\Folder A\fa_detalle_pedido_45507.xlsx
+Successfully inserted data into fa_detalle_proforma from C:\\Folder A\fa_detalle_pedido_45507.xlsx
+Moved C:\\Folder A\fa_detalle_pedido_45507.xlsx to C:\\Folder B\fa_detalle_pedido_45507_old.xlsx
+Processing file: fa_detalle_pedido_45526.xlsx
+Processing file: C:\\Folder A\fa_detalle_pedido_45526.xlsx
+Successfully inserted data into fa_detalle_proforma from C:\\Folder A\fa_detalle_pedido_45526.xlsx
+Moved C:\\Folder A\fa_detalle_pedido_45526.xlsx to C:\\Folder B\fa_detalle_pedido_45526_old.xlsx
+Processing file: fa_detalle_pedido_45989.xlsx
+Processing file: C:\\Folder A\fa_detalle_pedido_45989.xlsx
+Successfully inserted data into fa_detalle_proforma from C:\\Folder A\fa_detalle_pedido_45989.xlsx
+Moved C:\\Folder A\fa_detalle_pedido_45989.xlsx to C:\\Folder B\fa_detalle_pedido_45989_old.xlsx
+Processing file: fa_detalle_pedido_46102.xlsx
+Processing file: C:\\Folder A\fa_detalle_pedido_46102.xlsx
+Successfully inserted data into fa_detalle_proforma from C:\\Folder A\fa_detalle_pedido_46102.xlsx
+Moved C:\\Folder A\fa_detalle_pedido_46102.xlsx to C:\\Folder B\fa_detalle_pedido_46102_old.xlsx
+Processing file: fa_detalle_pedido_46104.xlsx
+Processing file: C:\\Folder A\fa_detalle_pedido_46104.xlsx
+Successfully inserted data into fa_detalle_proforma from C:\\Folder A\fa_detalle_pedido_46104.xlsx
+Moved C:\\Folder A\fa_detalle_pedido_46104.xlsx to C:\\Folder B\fa_detalle_pedido_46104_old.xlsx
+Processing file: fa_Pedido_45507.xlsx
+Processing file: C:\\Folder A\fa_Pedido_45507.xlsx
+Successfully inserted data into fa_proforma from C:\\Folder A\fa_Pedido_45507.xlsx
+Moved C:\\Folder A\fa_Pedido_45507.xlsx to C:\\Folder B\fa_Pedido_45507_old.xlsx
+Processing file: fa_Pedido_45526.xlsx
+Processing file: C:\\Folder A\fa_Pedido_45526.xlsx
+Successfully inserted data into fa_proforma from C:\\Folder A\fa_Pedido_45526.xlsx
+Moved C:\\Folder A\fa_Pedido_45526.xlsx to C:\\Folder B\fa_Pedido_45526_old.xlsx
+Processing file: fa_Pedido_45989.xlsx
+Processing file: C:\\Folder A\fa_Pedido_45989.xlsx
+Successfully inserted data into fa_proforma from C:\\Folder A\fa_Pedido_45989.xlsx
+Moved C:\\Folder A\fa_Pedido_45989.xlsx to C:\\Folder B\fa_Pedido_45989_old.xlsx
+Processing file: fa_Pedido_46102.xlsx
+Processing file: C:\\Folder A\fa_Pedido_46102.xlsx
+Successfully inserted data into fa_proforma from C:\\Folder A\fa_Pedido_46102.xlsx
+Moved C:\\Folder A\fa_Pedido_46102.xlsx to C:\\Folder B\fa_Pedido_46102_old.xlsx
+Processing file: fa_Pedido_46104.xlsx
+Processing file: C:\\Folder A\fa_Pedido_46104.xlsx
+Successfully inserted data into fa_proforma from C:\\Folder A\fa_Pedido_46104.xlsx
+Moved C:\\Folder A\fa_Pedido_46104.xlsx to C:\\Folder B\fa_Pedido_46104_old.xlsx
+Checking for new Excel files at 05-02-2025 17:29:25
+No Excel files found in folder: C:\\Folder A
+Service stopped at 05-02-2025 17:30:11
+Service started at 05-02-2025 17:37:53
+Checking for new Excel files at 05-02-2025 17:38:53
+Processing file: fa_detalle_pedido_45507.xlsx
+Processing file: C:\\Folder A\fa_detalle_pedido_45507.xlsx
+Successfully inserted data into fa_detalle_proforma from C:\\Folder A\fa_detalle_pedido_45507.xlsx
+Moved C:\\Folder A\fa_detalle_pedido_45507.xlsx to C:\\Folder B\fa_detalle_pedido_45507_old.xlsx
+Processing file: fa_Pedido_45507.xlsx
+Processing file: C:\\Folder A\fa_Pedido_45507.xlsx
+Successfully inserted data into fa_proforma from C:\\Folder A\fa_Pedido_45507.xlsx
+Moved C:\\Folder A\fa_Pedido_45507.xlsx to C:\\Folder B\fa_Pedido_45507_old.xlsx
+Checking for new Excel files at 05-02-2025 17:39:53
+No Excel files found in folder: C:\\Folder A
+Checking for new Excel files at 05-02-2025 17:40:53
+No Excel files found in folder: C:\\Folder A
+Service stopped at 05-02-2025 17:41:27
