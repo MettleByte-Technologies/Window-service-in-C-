@@ -28,7 +28,7 @@ namespace MyFirstService
         {
             WriteToFile("Service started at " + DateTime.Now);
             timer.Elapsed += new ElapsedEventHandler(OnElapsedTime);
-            timer.Interval = 60000; // Run every minute
+            timer.Interval = 6000; // Run every minute
             timer.Enabled = true;
         }
 
@@ -103,11 +103,11 @@ namespace MyFirstService
 
                     if (fileName.Contains("fa_detalle_pedido"))
                     {
-                        tableName = "fa_detalle_proforma";
+                        tableName = "fa_detalle_pedido";
                     }
                     else if (fileName.Contains("fa_pedido"))
                     {
-                        tableName = "fa_proforma";
+                        tableName = "fa_pedido";
                     }
 
                     if (tableName == null)
@@ -144,21 +144,30 @@ namespace MyFirstService
             DataTable dt = new DataTable();
             string[] expectedColumns;
 
-            if (tableName == "fa_detalle_proforma")
+            if (tableName == "fa_detalle_pedido")
             {
-                expectedColumns = new string[] { "DEPR_CODIGO_EMPRESA", "DEPR_CODIGO_BODEGA", "DEPR_CODIGO_PROFORMA", "DEPR_CODIGO_PRODUCTO", "DEPR_CANTIDAD", "DEPR_PRECIO",
-                                                  "DEPR_PAGO_IVA", "DEPR_COSTO", "DEPR_CANT_DSCTO1", "DEPR_PORC_DSCTO1", "DEPR_CODIGO_DSCTO1", "DEPR_CANT_DSCTO2", "DEPR_PORC_DSCTO2",
-                                                  "DEPR_CODIGO_DSCTO2", "DEPR_CANT_DSCTO3", "DEPR_PORC_DSCTO3", "DEPR_CODIGO_DSCTO3", "DEPR_CANT_DSCTO4", "DEPR_PORC_DSCTO4",
-                                                  "DEPR_CODIGO_DSCTO4", "DEPR_CANT_DSCTO5", "DEPR_PORC_DSCTO5", "DEPR_CODIGO_DSCTO5", "DEPR_EXTRA", "DEPR_PRECIO_G", "DEPR_NUMERO",
-                                                  "DEPR_NUMERO2", "DEPR_CARACTER", "DEPR_CARACTER2", "DEPR_VALOR_ICE","DEPR_CODIGO_PEDIDO" };
+                expectedColumns = new string[] {
+                                                "DEPE_CODIGO_EMPRESA", "DEPE_CODIGO_BODEGA", "DEPE_CODIGO_PEDIDO", "DEPE_CODIGO_PRODUCTO", "DEPE_CANTIDAD", "DEPE_PRECIO",
+                                                "DEPE_PAGO_IVA", "DEPE_COSTO", "DEPE_CANT_DSCTO1", "DEPE_PORC_DSCTO1", "DEPE_CODIGO_DSCTO1", "DEPE_CANT_DSCTO2", "DEPE_PORC_DSCTO2",
+                                                "DEPE_CODIGO_DSCTO2", "DEPE_CANT_DSCTO3", "DEPE_PORC_DSCTO3", "DEPE_CODIGO_DSCTO3", "DEPE_CANT_DSCTO4", "DEPE_PORC_DSCTO4",
+                                                "DEPE_CODIGO_DSCTO4", "DEPE_CANT_DSCTO5", "DEPE_PORC_DSCTO5", "DEPE_CODIGO_DSCTO5", "DEPE_FECHA_ENTREGA", "DEPE_PRECIO_LISTA",
+                                                "DEPE_CANTIDAD_PEDIDO", "DEPE_CANTIDAD_OBS", "DEPE_EXTRA", "DEPE_PRECIO_G", "DEPE_NUMERO", "DEPE_NUMERO2", "DEPE_CARACTER",
+                                                "DEPE_CARACTER2", "DEPE_BACKORDER", "DEPE_ENVIO_MAIL", "DEPE_VALOR_ICE"
+                                            };
+
 
             }
-            else if (tableName == "fa_proforma")
+            else if (tableName == "fa_pedido")
             {
-                expectedColumns = new string[] { "PROF_CODIGO_EMPRESA", "PROF_CODIGO_PEDIDO", "PROF_CODIGO_CLIENTE", "PROF_CODIGO_BODEGA", "PROF_DESCUENTO_TOTAL", "PROF_TERMINAL", "PROF_TIPO", "PROF_TIPO_CLIENTE", "PROF_CODIGO_VENDEDOR", "PROF_TIPO_MONEDA",
-                                                  "PROF_FECHA", "PROF_FORMA_PAGO", "PROF_CODIGO_DSCTO", "PROF_IVA", "PROF_VALOR_IVA", "PROF_ESTADO", "PROF_USUARIO", "PROF_TIPO_CAMBIO", "PROF_VALOR_DESCUENTO", "PROF_OBSERVACION", "PROF_ORDEN_COMPRA",
-                                                  "PROF_COMISION", "PROF_PRECIO_VTA", "PROF_FECHA_SISTEMA", "PROF_ALFA", "PROF_TOTAL_ICE", "PROF_EXPORTADA", "PROF_ENVIADO", "PROF_FECHA_ANULACION", "PROF_NOMBRE_CLIENTE", "PROF_DIRECCION", "PROF_TELEFONO",
-                                                  "PROF_CEDULA_RUC", "PROF_FECHA_ULTIMO_DESP", "PROF_FECHA_POSTERGA_VCTO", "PROF_FECHA_COBRO", "" };
+                expectedColumns = new string[] {
+                                                    "PEDI_CODIGO_EMPRESA", "PEDI_TIPO", "PEDI_TIPO_CLIENTE", "PEDI_CODIGO_PEDIDO", "PEDI_ORDEN_COMPRA", "PEDI_CODIGO_CLIENTE",
+                                                    "PEDI_NOMBRE_CLIENTE", "PEDI_DIRECCION", "PEDI_TELEFONO", "PEDI_CEDULA_RUC", "PEDI_CODIGO_BODEGA", "PEDI_CODIGO_VENDEDOR",
+                                                    "PEDI_COMISION", "PEDI_PRECIO_VTA", "PEDI_FECHA", "PEDI_FECHA_ENTREGA", "PEDI_FECHA_ULTIMO_DESP", "PEDI_TIPO_MONEDA",
+                                                    "PEDI_TIPO_CAMBIO", "PEDI_VALOR_PEDIDO", "PEDI_FORMA_PAGO", "PEDI_CODIGO_DSCTO", "PEDI_DESCUENTO_TOTAL", "PEDI_IVA",
+                                                    "PEDI_VALOR_IVA", "PEDI_FECHA_POSTERGA_VCTO", "PEDI_FECHA_COBRO", "PEDI_VALOR_DESCUENTO", "PEDI_FECHA_ANULACION", "PEDI_ESTADO",
+                                                    "PEDI_USUARIO", "PEDI_TERMINAL", "PEDI_FECHA_SISTEMA", "PEDI_OBSERVACION", "PEDI_ALFA", "PEDI_TOTAL_ICE"
+                                                };
+
 
             }
             else
@@ -199,7 +208,7 @@ namespace MyFirstService
             return dt;
         }
 
-
+        //Insert data in the oracle
         private void InsertDataIntoTable(DataTable dataTable, string tableName)
         {
             try
@@ -210,7 +219,8 @@ namespace MyFirstService
                     foreach (DataRow row in dataTable.Rows)
                     {
                         // Build the insert query dynamically
-                        string query = $"INSERT INTO {tableName} ({string.Join(",", dataTable.Columns.Cast<DataColumn>().Select(c => c.ColumnName))}) VALUES ({string.Join(",", dataTable.Columns.Cast<DataColumn>().Select(c => $":{c.ColumnName}"))})";
+                        string query = $"INSERT INTO {tableName} ({string.Join(",", dataTable.Columns.Cast<DataColumn>().Select(c => c.ColumnName))}) " +
+                                       $"VALUES ({string.Join(",", dataTable.Columns.Cast<DataColumn>().Select(c => $":{c.ColumnName}"))})";
 
                         using (OracleCommand cmd = new OracleCommand(query, conn))
                         {
@@ -219,13 +229,14 @@ namespace MyFirstService
                                 object value = row[col];
 
                                 // Handle date columns
-                                if (col.ColumnName.Equals("PROF_FECHA", StringComparison.OrdinalIgnoreCase) ||
-                                    col.ColumnName.Equals("PROF_FECHA_ENTREGA", StringComparison.OrdinalIgnoreCase) ||
-                                    col.ColumnName.Equals("PROF_FECHA_SISTEMA", StringComparison.OrdinalIgnoreCase))
+                                if (col.ColumnName.Equals("PEDI_FECHA", StringComparison.OrdinalIgnoreCase) ||
+                                    col.ColumnName.Equals("PEDI_FECHA_ENTREGA", StringComparison.OrdinalIgnoreCase) ||
+                                    col.ColumnName.Equals("PEDI_FECHA_SISTEMA", StringComparison.OrdinalIgnoreCase) ||
+                                    col.ColumnName.Equals("DEPE_FECHA_ENTREGA", StringComparison.OrdinalIgnoreCase))
                                 {
                                     if (value is string stringValue)
                                     {
-                                        string[] dateFormats = new string[] { "yyyy-MM-dd", "dd-MM-yyyy", "MM/dd/yyyy" };
+                                        string[] dateFormats = new string[] { "yyyy-MM-dd", "dd-MM-yyyy", "MM/dd/yyyy", "dd-MM-yy" };
                                         if (DateTime.TryParseExact(stringValue, dateFormats, null, System.Globalization.DateTimeStyles.None, out DateTime parsedDate))
                                         {
                                             value = parsedDate;
@@ -236,31 +247,37 @@ namespace MyFirstService
                                             value = DBNull.Value;
                                         }
                                     }
+                                    else if (value is DateTime dateVal)
+                                    {
+                                        value = dateVal;  // Keep the DateTime as is if it's already in DateTime format
+                                    }
                                 }
                                 else
                                 {
                                     // Handle potential overflow for number or string columns
                                     if (value is decimal decimalValue)
                                     {
+                                        // Round decimal to 2 decimal places
+                                        decimalValue = Math.Round(decimalValue, 2);
+
                                         // Adjust precision and scale based on your schema
-                                        decimalValue = Math.Round(decimalValue, 2); // Round to 2 decimal places
-                                        if (decimalValue > 99999999.99m)  // Example threshold
+                                        if (decimalValue > 99999999.99m)  // Example threshold for maximum value
                                         {
                                             WriteToFile($"Value too large for column {col.ColumnName}: {decimalValue}. Truncating value.");
-                                            value = 99999999.99m;  // Truncate to max allowed
+                                            value = 99999999.99m;  // Truncate to max allowed value
                                         }
                                         else
                                         {
                                             value = decimalValue;
                                         }
                                     }
-                                    else if (value is string stringValue)
+                                    else if (value is string stringVal)
                                     {
-                                        // Check string length (example: 255 characters max for VARCHAR2)
-                                        if (stringValue.Length > 255)
+                                        // Check for string length (example: 255 characters max for VARCHAR2)
+                                        if (stringVal.Length > 255)
                                         {
-                                            WriteToFile($"String too long for column {col.ColumnName}: {stringValue}. Truncating value.");
-                                            value = stringValue.Substring(0, 255);  // Truncate string to 255 characters
+                                            WriteToFile($"String too long for column {col.ColumnName}: {stringVal}. Truncating value.");
+                                            value = stringVal.Substring(0, 255);  // Truncate string to 255 characters
                                         }
                                     }
 
@@ -272,15 +289,21 @@ namespace MyFirstService
                                 }
 
                                 // Add parameters for the query
-                                if (value is DateTime dateValue)
+                                if (value is DateTime dateValueParam)
                                 {
-                                    cmd.Parameters.Add(new OracleParameter(col.ColumnName, OracleDbType.Date)).Value = dateValue;
+                                    cmd.Parameters.Add(new OracleParameter(col.ColumnName, OracleDbType.Date)).Value = dateValueParam;
+                                }
+                                else if (value is decimal decimalValueParam)
+                                {
+                                    cmd.Parameters.Add(new OracleParameter(col.ColumnName, OracleDbType.Decimal)).Value = decimalValueParam;
                                 }
                                 else
                                 {
                                     cmd.Parameters.Add(new OracleParameter(col.ColumnName, value ?? DBNull.Value));
                                 }
                             }
+
+                            // Execute the query
                             cmd.ExecuteNonQuery();
                         }
                     }
@@ -288,12 +311,9 @@ namespace MyFirstService
             }
             catch (Exception ex)
             {
-                WriteToFile($"Error inserting data into {tableName}: " + ex.Message);
+                WriteToFile($"Error inserting data into {tableName}: {ex.Message}");
             }
         }
-
-
-
 
 
         private void MoveFile(string filePath, string orderId)
